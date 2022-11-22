@@ -34,7 +34,7 @@
 
 ## ⚙️ Tech skills:
 
-### I had worked with the PERN and MERN Stack. Also, I have used some of the most demanded technologies, like Firebase, Google Cloud, GoogleMapsAPI, Redux, Sequelize, Jest, Jazmine, Sass, Less, and more. 
+### I have worked with the PERN and MERN Stack. Also, I have used some of the most demanded technologies, like Firebase, Google Cloud, GoogleMapsAPI, Redux, Sequelize, Jest, Jazmine, Sass, Less, and more. 
 <br>
 <div align="center">
  <a href="https://skillicons.dev">
