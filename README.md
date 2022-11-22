@@ -36,8 +36,15 @@
 
 ### I had worked with the PERN and MERN Stack. Also, I have used some of the most demanded technologies, like Firebase, Google Cloud, GoogleMapsAPI, Redux, Sequelize, Jest, Jazmine, Sass, Less, and more. 
 <br>
+<div align="center">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,expressjs,javascript,typescript,react,redux,styledcomponents,bootstrap" />
+  </a>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,firebase,sass,mongodb,jest,git,github" />
+  </a>
+ </div>
 
-<p align="center"> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="50" height="50"/>   </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" alt="firebase"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a> </p>
 
 <br>
 <br>
@@ -45,7 +52,7 @@
 ## 🤝 Soft Skills:
 
 
-### With a background in Geospatial Engineering, I have a strong sence of organization, and know how to collaborate with other professionals. I'm a team player with a leadership profile. I always take a positive attitude to learning from setbacks. Also, I have an excelent written and oral communication. I'm a goal oriented person, who always wants to achieve them and does whatever it takes to reach the goal.
+### With a background in Geospatial Engineering, I have a strong sense of organization, and know how to collaborate with other professionals. I'm a team player with a leadership profile. I always take a positive attitude to learning from setbacks. Also, I have an excelent written and oral communication. I'm a goal oriented person, who always wants to achieve them and does whatever it takes to reach the goal.
 
 <br>
 <br>
@@ -58,15 +65,25 @@
 <br>
 <br>
 
+<h3 align="left">📈 GitHub Stats</h3>
+<div>
+  <a href="https://github.com/TomasFalchini">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomasFalchini&theme=gruvbox&show_icons=true"/>
+  </a>
+  
+  <a href="https://github.com/LeonardoGPC">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasFalchini&hide=html&theme=gruvbox"/>
+  </a>
+  
+</div>
+
 
 ## 📫 How to reach me:
 
 ### Email:
-- **tomasfalchini@gmail.com**
+- tomasfalchini@gmail.com
 
-
-
-<h3 align="left">Or connect with me:</h3>
+<h4 align="left">Or connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/tomasfalchini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jmbv-dev/" height="25" width="34" /></a>
 </p>
