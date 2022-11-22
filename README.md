@@ -52,7 +52,7 @@
 ## 🤝 Soft Skills:
 
 
-### With a background in Geospatial Engineering, I have a strong sense of organization, and know how to collaborate with other professionals. I'm a team player with a leadership profile. I always take a positive attitude to learning from setbacks. Also, I have an excelent written and oral communication. I'm a goal oriented person, who always wants to achieve them and does whatever it takes to reach the goal.
+### With a background in Geospatial Engineering, I have a strong sense of organization, and know how to collaborate with other professionals. I'm a team player with a leadership profile and I always take a positive attitude towards learning from setbacks. I also have an excellent written and oral communication. I'm a goal oriented person who pursues growth and works hard to achieve his objectives.
 
 <br>
 <br>
