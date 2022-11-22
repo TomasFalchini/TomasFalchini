@@ -1,7 +1,7 @@
-
-![full stack developer (1) ](https://user-images.githubusercontent.com/108646907/202974570-f3a5168b-ae94-46b7-9ed0-1029014241f3.gif)
-
-
+<div align="center">
+<img width="700" height="400" src="https://user-images.githubusercontent.com/108646907/202974570-f3a5168b-ae94-46b7-9ed0-1029014241f3.gif" alt="TomasFalchiniDev" />
+ </div>
+<div>
 <h1 align="center">Hi there👋, I'm Tomás Falchini.</h1>
 <h3 align="center">Full Stack Developer</h3>
 <br>
@@ -51,7 +51,7 @@
 <a href="https://www.linkedin.com/in/tomasfalchini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jmbv-dev/" height="25" width="34" /></a>
 </p>
 
-
+ </div>
 
 
 
